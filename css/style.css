@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: noto-sans;
+}
+body {
+    background-image: url('main.jpg');
+}
+.container {
+    
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header ul li {
+    list-style: none;
+}
+
